@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img  src="https://media.giphy.com/media/xIxhiI1wmLM32fpl6e/giphy.gif" width="900" />
-<pre>Welcome to my Github Page </pre>
+<pre><b>Welcome to my Github Page </b> </pre>
 <!--
 **JoseLRiano/JoseLRiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
