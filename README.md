@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img style="width: 100%" src="https://media.giphy.com/media/ebmeROovtZZ1JTcdKG/giphy.gif" />
+<img  src="https://media.giphy.com/media/Dh4jn1CZEynopRTUmT/giphy.gif" />
 <!--
 **JoseLRiano/JoseLRiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
